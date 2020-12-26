@@ -1,6 +1,6 @@
 # Rift-Data
 
-We are building this project for our latest year in engineering studies at ECE Paris. The goal of this project is to build an application which is easy to deploy and that can be sold to e-sports organisations to have some statistics and predictions about the different champions that we can find in league of legends.
+We are building this project for our latest year in engineering studies at ECE Paris. The goal of this project is to build an application which is easy to deploy and that can be sold to e-sports organisations to have some statistics and predictions about the different champions that we can find in League of Legends.
 
 ## Technologies used
   
